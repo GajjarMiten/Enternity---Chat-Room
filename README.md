@@ -5,6 +5,6 @@ An ordinary Chat Room to explore Flutter. [Link](https://firebasestorage.googlea
 ## Demo
 
 <p align="center"> 
-    <img src="./images/login.png" />
-    <img src="./images/chatscreen.png" />
+    <img src="./images/login.png" height="400"/>
+    <img src="./images/chatscreen.png" height="400"/>
 </p>
